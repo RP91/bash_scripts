@@ -1,0 +1,22 @@
+UPDATE user SET authentication_string = PASSWORD('Y!b^mntX123') WHERE user = 'root';
+
+NOowy1@#$56ZxC
+
+
+
+MyNewPass4!
+Test!234
+
+
+
+mysql> CREATE TABLE tblAcctExec(    -> execID INT AUTO_INCREMENT PRIMARY KEY,
+    -> execLastName VARCHAR(35) NOT NULL,
+    -> execFirstName VARCHAR(35) NOT NULL,
+    -> execSalary INT NOT NULL);
+
+
+
+
+
+
+
